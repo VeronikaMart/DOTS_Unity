@@ -8,4 +8,4 @@ DOTS consists of the following elements:
 - The Burst Compiler, which generates fast and optimized native code;   
 - Native Containers, which are ECS data structures that provide control over memory.   
 
-Updated to 2020.3.33f1  
+Updated to 2020.3.36f1
